@@ -11,6 +11,5 @@ public class Solution {
 		User user2 = new User("alex", 99);
 		u.createUser(user1);
 		u.createUser(user2);
-
 	}
 }
