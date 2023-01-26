@@ -1,0 +1,9 @@
+1.Builder pattern
+if constructing object has multiple steps then we can use builder patterns
+In builder we remove object creation from client code and make it as seperate class
+
+First we need to identity all parts of the object and create methods for that
+need to method to create full object
+already created object reference so that we can return anytime
+
+Director is seperate class will be used as a client
