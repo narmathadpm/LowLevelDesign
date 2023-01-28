@@ -1,7 +1,7 @@
 package Creational.FactoryMethod;
 
 public class StudentCreator extends PersonCreator{
-	public Person createPerson()
+	public Student createPerson()
 	{
 		return new Student();
 	}
